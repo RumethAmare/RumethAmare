@@ -1,5 +1,10 @@
+# 🎓 Education 
+<a href="https://x.com/RumethAmarasiri" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/D._S._Senanayake_College_crest.png/150px-D._S._Senanayake_College_crest.png" width="85" height="85" /></a>
+<a href="https://x.com/RumethAmarasiri" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a6/SLIIT_Logo_Crest.png" alt="rumethamarasiri" width="85" height="85" /></a>
+<a href="https://x.com/RumethAmarasiri" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" alt="rumethamarasiri" width="85" height="85" /></a><br>
 
-# 🌐 Social Media :
+
+# 🌐 Social Media
 <p align="left">
 <a href="https://x.com/RumethAmarasiri" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/600px-X_logo.jpg" alt="rumethamarasiri" width="85" height="85" /></a>
 <a href="https://www.linkedin.com/in/rumeth-sanvindu-amarasiri-236126272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/rumeth-sanvindu-amarasiri" width="80" height="80" /></a>
@@ -7,7 +12,7 @@
 <a href="https://instagram.com/rumeth._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rumeth._" width="80" height="80" /></a>
 </p><br>
 
-# 🖥️ Languages and Tools :
+# 🖥️ Languages and Tools
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> 
@@ -24,7 +29,7 @@
 <br>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rumethamare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rumethamare&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rumethamare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
