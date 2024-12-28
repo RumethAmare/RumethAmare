@@ -1,7 +1,7 @@
 
 # 🌐 Social Media :
 <p align="left">
-<a href="https://x.com/RumethAmarasiri" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/600px-X_logo.jpg" alt="rumethamarasiri" width="80" height="80" /></a>
+<a href="https://x.com/RumethAmarasiri" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/600px-X_logo.jpg" alt="rumethamarasiri" width="85" height="85" /></a>
 <a href="https://www.linkedin.com/in/rumeth-sanvindu-amarasiri-236126272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/rumeth-sanvindu-amarasiri" width="80" height="80" /></a>
 <a href="https://www.facebook.com/profile.php?id=100086620137400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rumeth amarasiri" width="80" height="80" /></a>
 <a href="https://instagram.com/rumeth._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rumeth._" width="80" height="80" /></a>
