@@ -1,5 +1,5 @@
 
-## 🌐 Social Media :
+# 🌐 Social Media :
 <p align="left">
 <a href="https://x.com/RumethAmarasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rumethamarasiri" width="80" height="80" /></a> 
 <a href="https://www.linkedin.com/in/rumeth-sanvindu-amarasiri-236126272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/rumeth-sanvindu-amarasiri" width="80" height="80" /></a>
@@ -7,7 +7,7 @@
 <a href="https://instagram.com/rumeth._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rumeth._" width="80" height="80" /></a>
 </p><br>
 
-## 🖥️ Languages and Tools :
+# 🖥️ Languages and Tools :
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> 
@@ -23,12 +23,13 @@
 <br>
 
 
-## 📈 Current Stats :
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rumethamare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rumethamare&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rumethamare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rumethamare&show_icons=true&locale=en&layout=compact" alt="rumethamare" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rumethamare&show_icons=true&locale=en" alt="rumethamare" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rumethamare&" alt="rumethamare" /></p><br>
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rumethamare&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br>
 
-## 🏆 GitHub Trophies :
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumethamare" alt="rumethamare" /></a> </p>
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rumethamare&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
