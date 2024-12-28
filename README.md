@@ -1,7 +1,7 @@
 # 🎓 Education 
 <a href="https://en.wikipedia.org/wiki/D._S._Senanayake_College" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/D._S._Senanayake_College_crest.png/150px-D._S._Senanayake_College_crest.png" width="85" height="85" /></a>
 <a href="https://www.sliit.lk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a6/SLIIT_Logo_Crest.png" alt="rumethamarasiri" width="85" height="85" /></a>
-<a href="https://www.kln.ac.lk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" alt="rumethamarasiri" width="85" height="85" /></a>
+<a href="https://fct.kln.ac.lk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" alt="rumethamarasiri" width="85" height="85" /></a>
 <br>
 
 
