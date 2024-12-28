@@ -1,8 +1,4 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumethamare&label=Profile%20views&color=0e75b6&style=flat" alt="rumethamare" /> </p>
-
-
-
 ## 🌐 Social Media :
 <p align="left">
 <a href="https://x.com/RumethAmarasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rumethamarasiri" width="80" height="80" /></a> 
