@@ -6,7 +6,7 @@
 
 # 🌐 Social Media
 <p align="left">
-<a href="https://www.linkedin.com/in/rumeth-sanvindu-amarasiri-236126272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/rumeth-sanvindu-amarasiri" width="80" height="80" /></a>
+<a href="https://www.linkedin.com/in/rumethamarasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/rumeth-sanvindu-amarasiri" width="80" height="80" /></a>
 </p>
 
 # 🖥️ Languages and Tools
