@@ -1,5 +1,5 @@
 # 🎓 Education 
-<a href="https://en.wikipedia.org/wiki/D._S._Senanayake_College" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/D._S._Senanayake_College_crest.png/150px-D._S._Senanayake_College_crest.png](https://upload.wikimedia.org/wikipedia/en/d/d4/D._S._Senanayake_College_crest.png)" width="85" height="85" /></a>
+<a href="https://en.wikipedia.org/wiki/D._S._Senanayake_College" target="blank"><img align="center" src="https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-1/227959759_109178288102231_2010753133792397310_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ZoOI6F9_k78Q7kNvwFwBg_v&_nc_oc=AdpdqEUffXgt2ULZf9WLzB2To8X7FaZMX3BwMqmOvVkinBqL_MG7hTdh8ro0pXxuans&_nc_zt=24&_nc_ht=scontent.fcmb2-2.fna&_nc_gid=2blf1DPLL3iXqFe3oHQh6w&_nc_ss=7a32e&oh=00_Afw-EYIFfmWxOPdKXPDJBtNY3GEkahQYl5WLuU5eHGLDdg&oe=69C81253" width="85" height="85" /></a>
 <a href="https://www.sliit.lk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a6/SLIIT_Logo_Crest.png" alt="rumethamarasiri" width="85" height="85" /></a>
 <a href="https://fct.kln.ac.lk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" alt="rumethamarasiri" width="85" height="85" /></a>
 <br>
