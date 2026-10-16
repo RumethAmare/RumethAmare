@@ -37,7 +37,6 @@ Data Science and Computer Science undergraduate in Sri Lanka, with a 7-month ML 
 
 ### Design & Hardware
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-<br>
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rumethamare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -47,7 +46,7 @@ Data Science and Computer Science undergraduate in Sri Lanka, with a 7-month ML 
 ## 🚀 Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [**UniMind**](REPLACE_ME_UNIMIND_REPO) | RAG study assistant: answers from your own course files with page-level citations and confidence scoring; generates summaries, flashcards and quizzes | Next.js, TypeScript, FastAPI, PostgreSQL, Qdrant, Gemini, Docker |
+| [**UniMind**](https://github.com/RumethAmare/UniMind) | RAG study assistant: answers from your own course files with page-level citations and confidence scoring; generates summaries, flashcards and quizzes | Next.js, TypeScript, FastAPI, PostgreSQL, Qdrant, Gemini, Docker |
 | [**Heart Disease Risk Predictor**](https://github.com/RumethAmare/Heart-Disease-Risk-Predictor) | Supervised model estimating patient risk from clinical data (95% accuracy) | Python, pandas, scikit-learn |
 | [**Elephant Detection & Train Alert**](REPLACE_ME_ELEPHANT_REPO) | Sensor-fusion prototype to reduce train-elephant collisions: YOLO/CNN on Raspberry Pi 4 with LoRa alerts | YOLO, Raspberry Pi, SX1278 LoRa |
 | [**Quiz Bot**](https://github.com/RumethAmare/QuizBot) | AI quiz generator using the Gemini API | FastAPI, HTML/CSS/JS |
