@@ -1,17 +1,23 @@
-# 🎓 Education 
-<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxBot0qq8LM-TL03Xc8lXtwIglKzu6klVEKsD_YOYJA&s=10" target="blank"><img align="center" src="https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-1/227959759_109178288102231_2010753133792397310_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ZoOI6F9_k78Q7kNvwFwBg_v&_nc_oc=AdpdqEUffXgt2ULZf9WLzB2To8X7FaZMX3BwMqmOvVkinBqL_MG7hTdh8ro0pXxuans&_nc_zt=24&_nc_ht=scontent.fcmb2-2.fna&_nc_gid=2blf1DPLL3iXqFe3oHQh6w&_nc_ss=7a32e&oh=00_Afw-EYIFfmWxOPdKXPDJBtNY3GEkahQYl5WLuU5eHGLDdg&oe=69C81253" width="85" height="85" /></a>
-<a href="https://www.sliit.lk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a6/SLIIT_Logo_Crest.png" alt="rumethamarasiri" width="85" height="85" /></a>
-<a href="https://fct.kln.ac.lk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" alt="rumethamarasiri" width="85" height="85" /></a>
-<br>
+<h1 align="center">Hi, I'm Rumeth Amarasiri 👋</h1>
+<h3 align="center">AI/ML undergraduate building RAG, speech and computer-vision systems</h3>
 
-## 💼 Experience
+<p align="center">
+Data Science and Computer Science undergraduate in Sri Lanka, with a 7-month ML internship behind me.<br>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/rumethamarasiri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:rumethamara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+# 🎓 Education 
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxBot0qq8LM-TL03Xc8lXtwIglKzu6klVEKsD_YOYJA&s=10" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxBot0qq8LM-TL03Xc8lXtwIglKzu6klVEKsD_YOYJA&s=10" width="85" height="85" /></a>
+<a href="https://www.sliit.lk" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqASS0q-XHzptZv_nFsjM_KNb1DRN0Un4Ng_Eaycp-EQ&s=10" alt="rumethamarasiri" width="85" height="85" /></a>
+<a href="https://fct.kln.ac.lk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" alt="rumethamarasiri" width="85" height="85" /></a>
+<br><br>
+
+# 💼 Experience
 - **Software Engineer Intern, Vizuamatix (Pvt) Ltd** (Nov 2025 – Jun 2026): applied ML in Python and Go: text classification, web scraping, feature extraction.
 <br>
-
-# 🌐 Social Media
-<p align="left">
-<a href="https://www.linkedin.com/in/rumethamarasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/rumeth-sanvindu-amarasiri" width="80" height="80" /></a>
-</p>
 
 # 🖥️ Languages and Tools
 ### Languages
@@ -31,13 +37,13 @@
 
 ### Design & Hardware
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
+<br>
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rumethamare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rumethamare&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rumethamare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-
+<br>
 ## 🚀 Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
